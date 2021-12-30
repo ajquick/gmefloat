@@ -11,3 +11,7 @@ This information is merely an estimate and is subject to change as more data is 
 BUY HOLD DRS at [Computershare.com](https://computershare.com)
 
 This site is not affiliated with Reddit, GameStop, Computershare, nor any of the above mentioned websites.
+
+# Updates
+
+December 29, 2021: The number is approximately 18M and has diverged from Computershared.net and the DRSBot by a considerable amount. While DRSBot is currently showing around 16M, Computershared is estimating between 7M-15M. Other estimates put the actual number around 10M. I am adjusting the formula to set the current rate to around 14M.
