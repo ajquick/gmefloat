@@ -15,3 +15,5 @@ This site is not affiliated with Reddit, GameStop, Computershare, nor any of the
 # Updates
 
 December 29, 2021: The number is approximately 18M and has diverged from Computershared.net and the DRSBot by a considerable amount. While DRSBot is currently showing around 16M, Computershared is estimating between 7M-15M. Other estimates put the actual number around 10M. I am adjusting the formula to set the current rate to around 14M.
+
+March 17, 2022: GameStop has confirmed the number of shares directly registered as of January 29, 2022 is 8.9M shares. This crucial datapoint now allows the counter to be adjusted to reflect the correct count.
