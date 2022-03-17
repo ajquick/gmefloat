@@ -6,7 +6,8 @@ function upTime(countTo) {
   now = new Date();
   countTo = new Date(countTo);
   //milliseconds = Math.abs(countTo - now) * 0.0025 + 5200000; //Prior to Dec 28th
-  milliseconds = Math.abs(countTo - now) * 0.0016975 + 5200000; //New Dec 28th
+  //milliseconds = Math.abs(countTo - now) * 0.0016975 + 5200000; //New Dec 28th
+  milliseconds = Math.abs(countTo - now) * 0.000470618 + 5200000; //New March 17th
   hours = milliseconds / 36e5;
   document.getElementById('float').firstChild.nodeValue = milliseconds.toLocaleString("en", {
     minimumFractionDigits: 0,
